@@ -1,2 +1,5 @@
 # algorithm-breathing
-basic and "romantic" algorithms
+
+1. Where i put my algorithms stuff
+2. A diary for my algorithms journey
+
