@@ -1,5 +1,4 @@
-# algorithm-breathing
+# Hi, welcome to my Github. Feel free to browse around!
 
-1. Where i put my algorithms stuff
-2. A diary for my algorithms journey
+I believe Software as a solution is the key for developments of our modern world!
 
