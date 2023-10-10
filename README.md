@@ -3,7 +3,7 @@
 My name is Vinh Truong (Vincent).
 I am currently in a messy life:) But to sum up, 
 <br>
-Go, JS, Java (Web dev) | Python (Data Engineer / ML Engineer) | C++ (CP)
+Go, JS, Java, C#/.NET (Web dev) | Python (Data Engineer / ML Engineer) | C++ (CP)
 <br>
 I am a student:
  + Majors: Computer Science Engineering
