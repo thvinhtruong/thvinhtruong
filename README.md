@@ -1,4 +1,5 @@
-# Vinh Truong
+# Trương Cảnh Thành Vinh (Vinh Truong)
+=> just called me Vinh (or Vin :))
 
 Bachelor: Frankfurt University Of Applied Science
  + Majors: Computer Science Engineering
