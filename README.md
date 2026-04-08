@@ -1,14 +1,11 @@
-# Hi, welcome to my Github. Feel free to browse around!
+# Vinh Truong
 
-My name is Vinh Truong (Vincent).
-I am currently in a messy life:) But to sum up, 
-<br>
-Go, JS, Java, C#/.NET (Backend) | Flutter, NextJS (Frontend) | Docker, Terraform, AWS, Digital Ocean (Infrastructure) | Python (Data Engineer / ML Engineer) | C++ (CP) | 
-<br>
-
-I was a student at FRA-UAS (Germany):
+Bachelor: Frankfurt University Of Applied Science
  + Majors: Computer Science Engineering
  + Minors: IT Security, Computer Network, Software Design
 
-I am currently software engineer (backend):
- + 2023 - now: Orange Logic
+Master: Technische Universität Darmstadt:
+ + Artificial Intelligence and Machine Learning
+
+Software Engineer
+ + 2023 - 2026: Orange Logic
